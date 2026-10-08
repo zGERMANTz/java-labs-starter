@@ -1,8 +1,6 @@
 package edu.course.lab02;
 
-/**
- * Учебный класс банковского счета с защитой инвариантов.
- */
+
 public class BankAccount {
 
     private int balance;
