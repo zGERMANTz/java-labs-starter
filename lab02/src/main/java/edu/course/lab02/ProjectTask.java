@@ -1,8 +1,5 @@
 package edu.course.lab02;
 
-/**
- * Задача проекта с защитой инвариантов и инкапсуляцией состояния.
- */
 public class ProjectTask {
 
     private final String id;
