@@ -1,8 +1,6 @@
 package edu.course.lab02;
 
-/**
- * Статусы задачи проекта.
- */
+
 public enum TaskStatus {
     /** Задача создана, но работа не начата */
     TODO,
